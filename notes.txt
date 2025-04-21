@@ -1,4 +1,4 @@
 git init für den start
 git add <file>
 git commit -m "your commit message"
-git reset 
+git reset --soft
